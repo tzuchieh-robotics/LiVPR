@@ -1,0 +1,17 @@
+channels:
+  - rusty1s
+  - pytorch
+  - open3d-admin
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch-scatter
+  - open3d
+  - tensorboard
+  - scipy
+  - opencv
+  - tqdm
+  - suitesparse
+  - matplotlib
+  - pyyaml
